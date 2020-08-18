@@ -2,10 +2,7 @@
   "name": "master",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "homepage": "https://github.com/vjay513/React_Master/tree/master/master",
-=======
->>>>>>> c2c83752f1a84ec3cfa783ce8f1b9a011ef290e9
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
